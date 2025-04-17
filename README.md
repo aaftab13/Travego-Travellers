@@ -19,7 +19,7 @@ Travego Travellers is a travel booking management system designed to record pass
 - Execute Queries: Run the queries provided in the SQL files to set up the database and perform operations.​
 
 ## 📄 Documentation
-For detailed information on the project, including schema design, queries, and analysis, refer to the [Travego Project](Travego-Travellers/blob/main/Travego%20Project.pdf)
+For detailed information on the project, including schema design, queries, and analysis, refer to the [Travego Project](./Travego%20Project.pdf)
 
 ## 📌 Conclusion
 This project serves as a practical application of database management and SQL skills, showcasing the ability to handle real-world data, derive insights, and present findings in a professional manner.​
