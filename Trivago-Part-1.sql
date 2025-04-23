@@ -1,9 +1,9 @@
--- Travego Travellers 
+-- Trivago Travellers 
 
 #Creating Database, Tables and inserting records.
 
-CREATE DATABASE TRAVEGO;
-USE TRAVEGO;
+CREATE DATABASE TRIVAGO;
+USE TRIVAGO;
 
 CREATE TABLE passenger(
 Passenger_id INT PRIMARY KEY,
