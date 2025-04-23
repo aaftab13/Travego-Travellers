@@ -1,4 +1,4 @@
-USE TRAVEGO;
+USE TRIVAGO;
 
 # a.How many female passengers traveled a minimum distance of 600KMs?
 SELECT COUNT(*) AS cnt
