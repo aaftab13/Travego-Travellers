@@ -1,4 +1,4 @@
-# Travego Travellers – Travel Booking Management System
+# Trivago  Travellers – Travel Booking Management System
 ## 📘 Project Overview
 Travego Travellers is a travel booking management system designed to record passenger details and bus pricing between cities. Built using MySQL, this project demonstrates SQL operations including data insertion, querying, and updates, providing insights into passenger demographics and travel costs.​
 
